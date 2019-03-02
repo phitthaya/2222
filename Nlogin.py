@@ -4413,7 +4413,8 @@ def lineBot(op):
                  return
              dan = line.getContact(op.param2)
              tgb = line.getGroup(op.param1)
-             line.sendMessage(op.param1, str(settings["welcome"]) +"\n❋สวัสดี {}, Welcome to Group {}\n╔══•⊰✯⊱✴❤✴⊰✯⊱•══╗
+             line.sendMessage(op.param1, str(settings["welcome"]) +"\n❋สวัสดี {}, Welcome to Group {}\n
+	     ╔══•⊰✯⊱✴❤✴⊰✯⊱•══╗
 
         (moon attracted)สวัสดีสมาชิกใหม่(moon attracted)
          🙏ยินดีต้อนรับจร้าาา🙏 
@@ -4422,7 +4423,8 @@ def lineBot(op):
  (cony kiss)เข้ามาแล้วแนะนำตัวด้วยนะ(cony kiss)
  (brown beloved)สมาชิกใหม่เข้ามาแก้ผ้าจร้า(brown beloved)
   (นาฬิกา)กรุณาปิดแจ้งเตือนด้วยค่าบ(quiet)
- ╚══•⊰✯⊱✴❤✴⊰✯⊱•══╝".format(str(dan.displayName),str(tgb.name)))
+ ╚══•⊰✯⊱✴❤✴⊰✯⊱•══╝
+			      ".format(str(dan.displayName),str(tgb.name)))
              line.sendContact(op.param1, op.param2)
              line.sendMessage(op.param1,"สเตตัส\n{}".format(str(dan.statusMessage)))
              line.sendImageWithURL(op.param1, "http://dl.profile.line-cdn.net{}".format(dan.picturePath))
