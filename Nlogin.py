@@ -87,10 +87,19 @@ settings = {
     "changePictureProfile":False,
     "unsendMessage": False,
     "autoJoinTicket": False,
-    "welcome":"สวัสดีคนมาใหม่\n\nตั้งข้อความต้อนรับด้วยคับ\nVҜ ŚẾL₣ВΌŦ",
+    "welcome":"สวัสดีคนมาใหม่\n\n╔══•⊰✯⊱✴❤✴⊰✯⊱•══╗
+
+        (moon attracted)สวัสดีสมาชิกใหม่(moon attracted)
+         🙏ยินดีต้อนรับจร้าาา🙏 
+     (hmph)มาแร้วอย่าดื้ออย่าซน(hmph)
+ (james wink)ทำตัวน่ารักๆอย่าตบตีกันล่ะ(james wink)
+ (cony kiss)เข้ามาแล้วแนะนำตัวด้วยนะ(cony kiss)
+ (brown beloved)สมาชิกใหม่เข้ามาแก้ผ้าจร้า(brown beloved)
+  (นาฬิกา)กรุณาปิดแจ้งเตือนด้วยค่าบ(quiet)
+ ╚══•⊰✯⊱✴❤✴⊰✯⊱•══╝\nVҜ ŚẾL₣ВΌŦ",
     "kick":"งิเตะทมอยยย😂\nVҜ ŚẾL₣ВΌŦ",
     "bye":"ไปซ่ะละ ลาก่อยยย\nVҜ ŚẾL₣ВΌŦ",
-    "Respontag":"แทคทำไมเดะจับเย็ดตูด!",
+    "Respontag":"แทคมาทักหรือแทคมารัก!",
     "eror":"คุณใช้คำสั่งผิด สั่งบอทอีกครั้ง!",
     "spam":{},
     "invite": {},
